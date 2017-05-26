@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+## About Me
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+How's it goin', eh? (jk, im not canadian (though Wisconsin is not that far from Canada))
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+My name is Mark! (and the exclamation mark is important), and I'm just some (sarcastic) guy on the internet that makes music, does stuff in linux (wow, ain't I a nerd?), and occasionally writes things (posts, articles, code, etc). Navigating this website should help you find everything you may be looking for.
+
+## About This Website
+
+This website is my personal little project that serves in part as my personal little portfolio (omg; redundant wording!), and in part as my own venue to talk about literally anything I feel like. This website is generated with Jekyll and written in Markdown. I host this website in [one of my github repos](https://github.com/MarkSilverMedia/marksilvermedia.github.io), which is licensed under the Creative Commons Attribution 4.0 International Public License (so feel free to fork my source code).
