@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Update - June 2017"
-date:   2017-05-07 00:00:00 -0500
+date:   2017-06-06 00:00:00 -0500
 categories: update
 ---
 
