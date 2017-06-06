@@ -27,15 +27,6 @@ body {
   background-color: #FAFAFB;
 
   .left {
-    a {
-      color: #666;
-      border-bottom:1px dotted;
-      text-decoration:none;
-    }
-    a:hover {
-      color:red;
-      border-bottom:1px dotted;
-    }
   }
 }
 
@@ -60,7 +51,7 @@ body {
   transition:.4s;
 }
 
-.logo a:hover {
+.logo {
   color:#222;
   background-image:-webkit-linear-gradient(bottom,#222,#222);
   background-image:linear-gradient(to top,#222,#222);
