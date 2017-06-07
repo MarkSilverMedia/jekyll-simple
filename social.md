@@ -16,4 +16,4 @@ Being a bit of an internet hermit, I'm not quite as social as I oughtta be. For 
 
 **Discord** - One of my friends uses this to contact me, so I therefore have a presence here. Discord is a great alternative to Skype that is just better because Skype is owned by Microsoft and Microsoft is evil. If you want to be Discord friends, add me at MarkSilverMedia #6916.
 
-**Email** - When you average it out, I only log onto Discord about once a week. Email, however, I check every day, so if you want to get ahold of me for whatever reason, this is your best bet: (mark silver media at proton mail dot com
+**Email** - When you average it out, I only log onto Discord about once a week. Email, however, I check every day, so if you want to get ahold of me for whatever reason, this is your best bet: mark silver media at proton mail dot com
