@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/marksilver
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://marksilvermedia.github.io
+  * I am marksilver (https://keybase.io/marksilver) on keybase.
+  * I have a public key ASC5GQpB0YQORVqarE_NHkDCDwkvqasy0vnJ2P3wi5gaMQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e0022cc884903b1bc68823a86f55bd9a35ec8b7023137e82f0a32a02dcde0bba0a",
+            "host": "keybase.io",
+            "kid": "0120b9190a41d1840e455a9aac4fcd1e40c20f092fa9ab32d2f9c9d8fdf08b981a310a",
+            "uid": "e721a281d41defed748011edfbe93119",
+            "username": "marksilver"
+        },
+        "merkle_root": {
+            "ctime": 1497283500,
+            "hash": "6246d5ca1fd83e00a1dfc57c11e738d46622afe4dbdcc5092b51c255878e349af698fb0481d2ba25a69aa49debcf541f107499559d3873432902379da02da7c4",
+            "hash_meta": "ee13fada1ad1ce8e91f95786fb8d8a8e3cbb1d3f3b6b24818820a6e0457abae1",
+            "seqno": 1163805
+        },
+        "service": {
+            "hostname": "marksilvermedia.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1497283511,
+    "expire_in": 504576000,
+    "prev": "d1947ef43b28b7d6281efae2e27a9abaa2c5afa6f5e3d771e0bf3ebe8b1e4c85",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguRkKQdGEDkVamqxPzR5Awg8JL6mrMtL5ydj98IuYGjEKp3BheWxvYWTFA1N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTAwMjJjYzg4NDkwM2IxYmM2ODgyM2E4NmY1NWJkOWEzNWVjOGI3MDIzMTM3ZTgyZjBhMzJhMDJkY2RlMGJiYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjkxOTBhNDFkMTg0MGU0NTVhOWFhYzRmY2QxZTQwYzIwZjA5MmZhOWFiMzJkMmY5YzlkOGZkZjA4Yjk4MWEzMTBhIiwidWlkIjoiZTcyMWEyODFkNDFkZWZlZDc0ODAxMWVkZmJlOTMxMTkiLCJ1c2VybmFtZSI6Im1hcmtzaWx2ZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTcyODM1MDAsImhhc2giOiI2MjQ2ZDVjYTFmZDgzZTAwYTFkZmM1N2MxMWU3MzhkNDY2MjJhZmU0ZGJkY2M1MDkyYjUxYzI1NTg3OGUzNDlhZjY5OGZiMDQ4MWQyYmEyNWE2OWFhNDlkZWJjZjU0MWYxMDc0OTk1NTlkMzg3MzQzMjkwMjM3OWRhMDJkYTdjNCIsImhhc2hfbWV0YSI6ImVlMTNmYWRhMWFkMWNlOGU5MWY5NTc4NmZiOGQ4YThlM2NiYjFkM2YzYjZiMjQ4MTg4MjBhNmUwNDU3YWJhZTEiLCJzZXFubyI6MTE2MzgwNX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYXJrc2lsdmVybWVkaWEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTcyODM1MTEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZDE5NDdlZjQzYjI4YjdkNjI4MWVmYWUyZTI3YTlhYmFhMmM1YWZhNmY1ZTNkNzcxZTBiZjNlYmU4YjFlNGM4NSIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJi2x2CjlmuDYrs8VtG+46nVj52K8VREygyC6ZcuTCZGEmBcM+PU2dgjeEMOmIn4fGYtPK3yxKzorTtkReqg3QGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBhNj/D38f5rATJxeH9V+dwd5mQFWzAV9tHtVXwuE7FfKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marksilver
+
+==================================================================
