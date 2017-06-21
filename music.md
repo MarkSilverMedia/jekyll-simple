@@ -30,4 +30,4 @@ Be on the look out for my eponymous album, which will be released on the 22nd of
 
 ### Live Music - Nerd Central / EMAWM Live (2015-Present)
 
-Since late 2015, I've done some skype performances with internet friends, mainly with the aforementioned EMAWM guys and [April](http://tunes.wikipedia.sexy). "[Nerd Central](http://nerdcentral.emawm.tk)" pioneered the concept within the "Scratchbupers" niche before I became a member, and I'd adapted the term for as long as I held ties to their members outside of EMAWM (The latest session was labeled "[EMAWM Live](https://archive.org/details/el4117)").
+Since late 2015, I've done some skype performances with internet friends, mainly with the aforementioned EMAWM guys and [April](http://tunes.wikipedia.sexy). "[Nerd Central](http://nerdcentral.emawm.tk)" pioneered the concept within the "Scratchbupers" niche before I became a member, and I'd adapted the term for as long as I held ties to their members who aren't in EMAWM (The latest session was labeled "[EMAWM Live](https://archive.org/details/el4117)").
