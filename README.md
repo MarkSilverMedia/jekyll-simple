@@ -1,16 +1,11 @@
-# jekyll-simple
+# Mark Silver Media
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+## About Me
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+It's Mark! (the exclamation point is silent)
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+I'm just some (sarcastic) guy on the internet that makes music, does stuff in linux (wow, ain't I a nerd?), and occasionally writes things (posts, articles, code, etc). Navigating this website should help you find everything you may be looking for.
 
-## Story behind this theme
+## About This Website
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
-
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
-
-So mobile goes first, then the macOS.
+This website is my personal little project that serves in part as my personal little portfolio (omg; redundant wording!), and in part as my own venue to talk about literally anything I feel like. This website is generated with Jekyll and written in Markdown. I host this website in [one of my github repos](https://github.com/MarkSilverMedia/marksilvermedia.github.io), which is licensed under the Creative Commons Attribution 4.0 International Public License (so feel free to fork my source code).
