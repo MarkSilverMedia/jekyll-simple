@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-It's Mark! (the exclaimation point is silent)
+It's Mark! (the exclamation point is silent)
 
 I'm just some (sarcastic) guy on the internet that makes music, does stuff in linux (wow, ain't I a nerd?), and occasionally writes things (posts, articles, code, etc). Navigating this website should help you find everything you may be looking for.
 
