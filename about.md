@@ -6,9 +6,9 @@ permalink: /about/
 
 ## About Me
 
-How's it goin', eh? (jk, im not canadian (though Wisconsin is not that far from Canada))
+It's Mark! (the exclaimation point is silent)
 
-My name is Mark! (and the exclamation mark is important), and I'm just some (sarcastic) guy on the internet that makes music, does stuff in linux (wow, ain't I a nerd?), and occasionally writes things (posts, articles, code, etc). Navigating this website should help you find everything you may be looking for.
+I'm just some (sarcastic) guy on the internet that makes music, does stuff in linux (wow, ain't I a nerd?), and occasionally writes things (posts, articles, code, etc). Navigating this website should help you find everything you may be looking for.
 
 ## About This Website
 
