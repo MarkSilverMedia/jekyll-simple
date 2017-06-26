@@ -6,7 +6,7 @@ permalink: /shows/
 
 ## The Groovy Galleon Podcast (2017-)
 
-The Groovy Galleon Podcast will be my first podcast. Starting in June, this podcast will explore various aspects of music, whether it be discussion about tracks, albums, & genres, or interviews with fellow musicians. The podcast will be found on [this page](https://marksilvermedia.github.io/groovygalleon/podcast).
+The Groovy Galleon Podcast is my first podcast! Started in June 2017, this podcast explores various aspects of music, whether it be discussion about tracks, albums, & genres, or interviews with fellow musicians. The podcast will be found on [this page](https://marksilvermedia.github.io/groovygalleon/podcast).
 
 ## Distrohopper (2016)
 
