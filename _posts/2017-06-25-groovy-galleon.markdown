@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing: The Groovy Galleon Podcast"
-date:   2017-06-07 00:00:00 -0500
+date:   2017-06-25 00:00:00 -0500
 categories: podcast gg
 ---
 
