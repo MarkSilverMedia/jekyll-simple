@@ -22,7 +22,7 @@ Be on the look out for my eponymous album, which will be released on the 22nd of
 
 ### The Groovy Galleon (2017-Present)
 
-[The Groovy Galleon](https://marksilvermedia.github.io/groovygalleon) is both a libre-licensed music archive and alternative-music podcast, all rolled up into one nifty little markdown webspace. As of right now, it consists entirely of my own efforts, but I plan to bring some additional people, whether it be to feature their music or to talk with them on the podcast. The podcast launches on June 24th!
+[The Groovy Galleon](https://marksilvermedia.github.io/groovygalleon) is both a libre-licensed music archive and alternative-music podcast, all rolled up into one nifty little markdown webspace. As of right now, it consists entirely of my own efforts, but I plan to bring some additional people, whether it be to feature their music or to talk with them on the podcast.
 
 ### EMAWM (2016-2017)
 
