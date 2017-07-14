@@ -1,57 +1,47 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
 
-<div class="home">
-  <div class="post-list">
+<html>
 
-    {% for post in site.posts limit:5%}
+<head>
 
-    <article class="post_card post">
-      <header class="post_header">
-        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
-        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
-      </header>
-      <div class="post_excerpt">
-        <p>
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> Click to read this post »  </a>
-        </p> 
-      </div>
-      <footer class="post_meta">
+<link rel=stylesheet href="main.css" type="text/css">
 
+<title>Home | Mark! Silver Media</title>
 
-        {% if post.location %}
-        <span class="author-location">
-          <div data-icon="ei-location"></div>
-          <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
-        </span>
-        {% endif %}
-        <!--
-        {% for category in post.categories %}
-        <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
-          <data data-icon="ei-archive"></data>
-          {{category}}</a>
-        {% endfor %}
-        -->
+</head>
 
-        <!--
-        {% if post.author %}
-        <span class="author_meta">
-          <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
-          <span>David Lin</span>
-        </span>
-        {% endif %}
-        -->
+<body>
 
-        <!--p class="readmore">
-          <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
-        </p-->
-      </footer>
-      <hr/>
-    </article>
-    {% endfor %}
+<div id="content">
 
-    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
-  </div>
+<center><a href="index.html"><h1>Mark! Silver Media</h1></a></center><hr>
+
+<center><a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="music.html">Music</a> | <a href="shows.html">Shows</a> | <a href="articles.html">Articles</a> | <a href="social.html">Social</a> | <a href="donate.html">Donate</a> | <a href="archive.html">Archive</a></center><hr>
+
+<h2>Attention</h2>
+Please read the following before further browsing this site:
+
+<ul>
+
+<li>The world wide web as we know it is in trouble because of a web standard (EME) that goes against the W3C&#39;s mission statement. I highly encourage you to boycott websites that choose to adapt this standard (and DRM in general), as said websites do not respect your freedom. For more information on why EME is a bad idea, read <a href="http://www.networkworld.com/article/3205900/internet/w3c-embraces-drmputs-itself-on-the-wrong-side-of-history.html">Bryan Lunduke&#39;s article about it on Network World</a>.</li>
+
+</ul><hr>
+
+<h2>This Month&#39;s Posts</h2>
+Posts, articles, & microblog-esque updates added to the site during July of 2017 exist below. Older entries can be found in <a href="archive.html">the archive</a>.
+
+<ul>
+
+<li><b>July 11th, 2017:</b> I got me a system76 Lemur laptop, & set it up with Antergos GNOME. <a href="https://mastodon.rocks/system/media_attachments/files/000/092/669/original/49ff66a0c663cc4f.png?1499814734">Check out how I configured it!</a></li>
+
+<li><b>July 4th, 2017:</b> <a href="https://marksilver.bandcamp.com/album/straw-in-the-ocean-ep">"Straw In The Ocean EP"</a> is released. As with all my music, it&#39;s free to download/stream/whatever, so go check it out! #areyouTRIGGEREDyet</li>
+
+</ul><hr>
+
+<center><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> | Site Designed by Mark! Silver | <a href="https://github.com/MarkSilverMedia/marksilvermedia.github.io/">Fork me, baby.</a></center>
+
 </div>
+
+</body>
+
+</html>

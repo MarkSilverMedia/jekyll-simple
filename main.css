@@ -1,0 +1,21 @@
+body {
+
+background-color: black;
+color: white;
+font-family: "Arial", Gadget, sans-serif;
+
+}
+
+a {
+
+color: white;
+
+}
+
+#content {
+
+width: 70%;
+margin-left: 15%;
+padding: 5px;
+
+}
